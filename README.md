@@ -5,6 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Front-End React](#frontend)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -26,25 +27,9 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+### Front End React <a name="#frontend"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-  </ul>
-  </details>
-  <details>
-  <summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+- [Front-End React](https://github.com/Metaverse-Nabeel/greetings-react) 
 
 ### Key Features <a name="key-features"></a>
 
@@ -69,8 +54,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/Metaverse-Nabeel/greetings.git
-cd cash-byte
+git clone https://github.com/Metaverse-Nabeel/greetings-rails.git
+cd greetings-rails
 code .
 ```
 
